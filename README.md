@@ -171,8 +171,8 @@ Graph-fraud-detection/
 ├── requirements.txt               ← dependencies
 │
 └── outputs/
-    ├── edmonds_karp_correct_final.png
+    ├── edmonds_karp.png
     ├── ullmann_fraud_ring.png
-    ├── knapsack_horizontal_final.png
+    ├── knapsack_horizontal.png
     └── convergence_funnel.png
 ```
