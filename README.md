@@ -138,7 +138,7 @@ The framework answers the same three questions in any domain: where is energy fl
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/GurleenKaurS/Graph-fraud-detection.git
+git clone https://github.com/Gurleen121/Graph-fraud-detection.git
 cd Graph-fraud-detection
 ```
 
